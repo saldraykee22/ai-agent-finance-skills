@@ -1,0 +1,4 @@
+interface:
+  display_name: "Finance Research Quality Auditor"
+  short_description: "Audits finance research quality and evidence gaps"
+  default_prompt: "Use $finance-research-quality-auditor to audit a finance analysis."

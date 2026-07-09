@@ -1,0 +1,4 @@
+interface:
+  display_name: "Earnings Estimate Revision Tracker"
+  short_description: "Track earnings estimate changes"
+  default_prompt: "Use $earnings-estimate-revision-tracker to analyze estimate revisions before earnings."

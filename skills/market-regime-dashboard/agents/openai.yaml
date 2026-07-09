@@ -1,0 +1,4 @@
+interface:
+  display_name: "Market Regime Dashboard"
+  short_description: "Summarizes market regime for BIST, crypto, and global assets"
+  default_prompt: "Use $market-regime-dashboard to summarize current market regime."

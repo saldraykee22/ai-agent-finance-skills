@@ -1,0 +1,4 @@
+interface:
+  display_name: "Market Data Pipeline Architect"
+  short_description: "Design finance data pipelines"
+  default_prompt: "Use $market-data-pipeline-architect to design a BIST and crypto market data pipeline."

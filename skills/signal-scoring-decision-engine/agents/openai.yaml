@@ -1,0 +1,4 @@
+interface:
+  display_name: "Signal Scoring Decision Engine"
+  short_description: "Convert signals into decision scores"
+  default_prompt: "Use $signal-scoring-decision-engine to score a spot trade candidate across fundamentals, technicals, valuation, and risk."

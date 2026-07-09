@@ -1,0 +1,4 @@
+interface:
+  display_name: "Commodities Market Analyst"
+  short_description: "Energy, metals, ags, inventories, and curves"
+  default_prompt: "Use $commodities-market-analyst to analyze a commodity market with supply, demand, and curve context."

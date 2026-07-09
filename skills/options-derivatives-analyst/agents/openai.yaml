@@ -1,0 +1,4 @@
+interface:
+  display_name: "Options Derivatives Analyst"
+  short_description: "Options, futures, volatility, and hedging workflow"
+  default_prompt: "Use $options-derivatives-analyst to analyze derivatives positioning."

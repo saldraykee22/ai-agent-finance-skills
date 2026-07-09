@@ -1,0 +1,4 @@
+interface:
+  display_name: "Correlation Exposure Map"
+  short_description: "Map correlation and exposure clusters"
+  default_prompt: "Use $correlation-exposure-map to map hidden concentration across my BIST and crypto holdings."

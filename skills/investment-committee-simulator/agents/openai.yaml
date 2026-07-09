@@ -1,0 +1,4 @@
+interface:
+  display_name: "Investment Committee Simulator"
+  short_description: "Challenge decisions before action"
+  default_prompt: "Use $investment-committee-simulator to challenge my THYAO spot thesis before I act."

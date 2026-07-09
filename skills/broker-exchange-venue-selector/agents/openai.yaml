@@ -1,0 +1,4 @@
+interface:
+  display_name: "Broker Exchange Venue Selector"
+  short_description: "Compare brokers exchanges and venues"
+  default_prompt: "Use $broker-exchange-venue-selector to compare venues for BIST and crypto spot execution."

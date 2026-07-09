@@ -1,0 +1,4 @@
+interface:
+  display_name: "Security Wallet Operations Analyst"
+  short_description: "Review wallet and account security"
+  default_prompt: "Use $security-wallet-operations-analyst to review my crypto wallet and exchange account operating setup."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Benchmark Attribution Analyst"
+  short_description: "Benchmark, factor, sector, FX, and selection attribution"
+  default_prompt: "Use $benchmark-attribution-analyst to explain portfolio performance versus benchmark."

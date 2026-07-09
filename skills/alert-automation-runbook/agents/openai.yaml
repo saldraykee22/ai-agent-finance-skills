@@ -1,0 +1,4 @@
+interface:
+  display_name: "Alert Automation Runbook"
+  short_description: "Define market alert automation"
+  default_prompt: "Use $alert-automation-runbook to design alerts for my BIST and crypto watchlist."

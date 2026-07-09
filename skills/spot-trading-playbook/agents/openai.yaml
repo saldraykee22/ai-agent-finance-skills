@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spot Trading Playbook"
+  short_description: "BIST and crypto spot trade setup playbooks"
+  default_prompt: "Use $spot-trading-playbook to structure a spot trade setup."

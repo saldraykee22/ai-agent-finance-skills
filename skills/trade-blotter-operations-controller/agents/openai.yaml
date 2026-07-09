@@ -1,0 +1,4 @@
+interface:
+  display_name: "Trade Blotter Operations Controller"
+  short_description: "Control trade blotter workflow"
+  default_prompt: "Use $trade-blotter-operations-controller to review my planned and executed spot trades."

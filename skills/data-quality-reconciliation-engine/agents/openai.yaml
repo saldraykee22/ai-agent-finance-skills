@@ -1,0 +1,4 @@
+interface:
+  display_name: "Data Quality Reconciliation Engine"
+  short_description: "Reconcile conflicting market data"
+  default_prompt: "Use $data-quality-reconciliation-engine to reconcile price, filing, and token supply data conflicts."

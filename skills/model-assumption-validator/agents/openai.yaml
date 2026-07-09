@@ -1,0 +1,4 @@
+interface:
+  display_name: "Model Assumption Validator"
+  short_description: "Validate finance model assumptions"
+  default_prompt: "Use $model-assumption-validator to audit the assumptions in my valuation and signal model."

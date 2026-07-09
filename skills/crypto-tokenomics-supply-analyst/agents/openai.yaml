@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crypto Tokenomics Supply Analyst"
+  short_description: "Token supply, unlocks, emissions, burns, and FDV risk"
+  default_prompt: "Use $crypto-tokenomics-supply-analyst to analyze token supply and unlock risk."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "US Equity Market Analyst"
+  short_description: "US stocks, filings, earnings, and market workflow"
+  default_prompt: "Use $us-equity-market-analyst to analyze a US-listed stock with filings, earnings, and market context."

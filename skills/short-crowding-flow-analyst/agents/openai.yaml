@@ -1,0 +1,4 @@
+interface:
+  display_name: "Short Crowding Flow Analyst"
+  short_description: "Short interest, crowding, borrow, and squeeze risk"
+  default_prompt: "Use $short-crowding-flow-analyst to analyze short and crowding risk."

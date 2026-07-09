@@ -1,0 +1,4 @@
+interface:
+  display_name: "Portfolio Accounting Performance"
+  short_description: "P&L, cash flows, attribution, and performance"
+  default_prompt: "Use $portfolio-accounting-performance to analyze portfolio performance."

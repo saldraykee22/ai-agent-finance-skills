@@ -1,0 +1,4 @@
+interface:
+  display_name: "Alternative Data Sentiment Analyst"
+  short_description: "Use alternative data and sentiment"
+  default_prompt: "Use $alternative-data-sentiment-analyst to check alternative data and sentiment for a crypto narrative or BIST stock."

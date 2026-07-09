@@ -1,0 +1,4 @@
+interface:
+  display_name: "Custody Counterparty Risk Analyst"
+  short_description: "Exchange, broker, custody, settlement, and counterparty risk"
+  default_prompt: "Use $custody-counterparty-risk-analyst to assess custody and counterparty risk."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "BIST Sector Rotation Analyst"
+  short_description: "Track BIST sector leadership shifts"
+  default_prompt: "Use $bist-sector-rotation-analyst to analyze current BIST sector rotation and leading stocks."

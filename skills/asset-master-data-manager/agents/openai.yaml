@@ -1,0 +1,4 @@
+interface:
+  display_name: "Asset Master Data Manager"
+  short_description: "Canonical asset identity and metadata"
+  default_prompt: "Use $asset-master-data-manager to normalize identifiers for a BIST, US, Germany, and crypto watchlist."

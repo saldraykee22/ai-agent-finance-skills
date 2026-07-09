@@ -1,0 +1,4 @@
+interface:
+  display_name: "Capital Allocation Cash Manager"
+  short_description: "Cash, dry powder, allocation, and deployment rules"
+  default_prompt: "Use $capital-allocation-cash-manager to plan cash and spot capital allocation."

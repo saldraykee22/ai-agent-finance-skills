@@ -1,0 +1,4 @@
+interface:
+  display_name: "Market Data Source Verifier"
+  short_description: "Verifies financial data sources and timestamps"
+  default_prompt: "Use $market-data-source-verifier to verify market data sources and timestamps."

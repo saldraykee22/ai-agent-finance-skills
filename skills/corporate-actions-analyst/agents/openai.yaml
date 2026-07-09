@@ -1,0 +1,4 @@
+interface:
+  display_name: "Corporate Actions Analyst"
+  short_description: "Dividends, splits, buybacks, mergers, and unlocks"
+  default_prompt: "Use $corporate-actions-analyst to analyze a corporate action."

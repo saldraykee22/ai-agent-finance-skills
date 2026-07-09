@@ -1,0 +1,4 @@
+interface:
+  display_name: "Financial News Event Analyst"
+  short_description: "Market news, catalysts, filings, and event impact"
+  default_prompt: "Use $financial-news-event-analyst to map a market-moving event and likely impacts."

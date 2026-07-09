@@ -1,0 +1,4 @@
+interface:
+  display_name: "Earnings Call Transcript Analyst"
+  short_description: "Earnings calls, tone, guidance, and Q&A signals"
+  default_prompt: "Use $earnings-call-transcript-analyst to analyze an earnings call."

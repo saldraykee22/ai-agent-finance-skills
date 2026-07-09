@@ -1,0 +1,4 @@
+interface:
+  display_name: "Drawdown Recovery Manager"
+  short_description: "Recover portfolios after drawdowns"
+  default_prompt: "Use $drawdown-recovery-manager to build a recovery plan after a BIST and crypto portfolio drawdown."

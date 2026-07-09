@@ -1,0 +1,4 @@
+interface:
+  display_name: "Insider Ownership Flow Analyst"
+  short_description: "Insider, ownership, 13F, and holder flow analysis"
+  default_prompt: "Use $insider-ownership-flow-analyst to analyze ownership and insider flows."

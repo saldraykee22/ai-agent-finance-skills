@@ -1,0 +1,4 @@
+interface:
+  display_name: "Systemic Risk Radar"
+  short_description: "Market fragility, leverage, funding, and risk alarms"
+  default_prompt: "Use $systemic-risk-radar to scan systemic market risk."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Daily Spot Market Briefing"
+  short_description: "Daily BIST and crypto spot market preparation"
+  default_prompt: "Use $daily-spot-market-briefing to prepare the day for BIST and crypto spot markets."

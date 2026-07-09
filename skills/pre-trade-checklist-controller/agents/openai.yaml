@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pre-Trade Checklist Controller"
+  short_description: "Gate spot trades before execution"
+  default_prompt: "Use $pre-trade-checklist-controller to run a final pre-trade check before entering a BIST or crypto spot position."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Trade Journal Reviewer"
+  short_description: "Reviews trades, R-multiples, and process patterns"
+  default_prompt: "Use $trade-journal-reviewer to review recent trades and process quality."

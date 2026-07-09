@@ -1,0 +1,4 @@
+interface:
+  display_name: "Thesis Risk Register"
+  short_description: "Tracks thesis assumptions, risks, and invalidations"
+  default_prompt: "Use $thesis-risk-register to build a thesis risk register."

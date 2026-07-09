@@ -1,0 +1,4 @@
+interface:
+  display_name: "ETF Fund Flow Analyst"
+  short_description: "ETF, fund, passive flow, and index product analysis"
+  default_prompt: "Use $etf-fund-flow-analyst to analyze ETF and fund flow impact."

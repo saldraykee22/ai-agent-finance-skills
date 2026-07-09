@@ -1,0 +1,4 @@
+interface:
+  display_name: "Economic Calendar Monitor"
+  short_description: "Tracks macro, earnings, unlocks, and event calendars"
+  default_prompt: "Use $economic-calendar-monitor to build a market event calendar."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Market Session Microstructure Analyst"
+  short_description: "Sessions, auctions, order types, circuits, and microstructure"
+  default_prompt: "Use $market-session-microstructure-analyst to analyze session and microstructure risk."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crypto Market Analyst"
+  short_description: "Crypto spot, derivatives, and on-chain workflow"
+  default_prompt: "Use $crypto-market-analyst to analyze a crypto asset across spot, derivatives, and on-chain data."

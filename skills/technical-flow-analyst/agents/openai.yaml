@@ -1,0 +1,4 @@
+interface:
+  display_name: "Technical Flow Analyst"
+  short_description: "Charts, momentum, market breadth, and positioning"
+  default_prompt: "Use $technical-flow-analyst to analyze price action, levels, and market flow."

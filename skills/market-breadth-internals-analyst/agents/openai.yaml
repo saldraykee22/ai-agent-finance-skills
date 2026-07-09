@@ -1,0 +1,4 @@
+interface:
+  display_name: "Market Breadth Internals Analyst"
+  short_description: "Analyze breadth and internals"
+  default_prompt: "Use $market-breadth-internals-analyst to analyze BIST and crypto market breadth."

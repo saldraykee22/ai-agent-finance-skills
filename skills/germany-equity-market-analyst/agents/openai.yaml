@@ -1,0 +1,4 @@
+interface:
+  display_name: "Germany Equity Market Analyst"
+  short_description: "German equities, Xetra, filings, and macro workflow"
+  default_prompt: "Use $germany-equity-market-analyst to analyze a German-listed stock with exchange, filings, and macro context."

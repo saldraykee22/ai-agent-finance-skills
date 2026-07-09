@@ -1,0 +1,4 @@
+interface:
+  display_name: "Macro Market Strategist"
+  short_description: "Macro regimes, rates, FX, and cross-asset strategy"
+  default_prompt: "Use $macro-market-strategist to build a macro regime map and cross-asset view."

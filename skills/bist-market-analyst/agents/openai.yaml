@@ -1,0 +1,4 @@
+interface:
+  display_name: "BIST Market Analyst"
+  short_description: "BIST equities and market workflow"
+  default_prompt: "Use $bist-market-analyst to analyze a BIST stock with sources and scenarios."

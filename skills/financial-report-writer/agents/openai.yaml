@@ -1,0 +1,4 @@
+interface:
+  display_name: "Financial Report Writer"
+  short_description: "Turns analysis into research notes and memos"
+  default_prompt: "Use $financial-report-writer to write a concise investment research note."

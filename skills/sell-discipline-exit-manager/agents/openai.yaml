@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sell Discipline Exit Manager"
+  short_description: "Manage exits trims and invalidation"
+  default_prompt: "Use $sell-discipline-exit-manager to define exit and trim rules for my spot position."

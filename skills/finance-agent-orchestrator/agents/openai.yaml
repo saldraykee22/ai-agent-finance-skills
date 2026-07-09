@@ -1,0 +1,4 @@
+interface:
+  display_name: "Finance Agent Orchestrator"
+  short_description: "Routes finance tasks across specialist skills"
+  default_prompt: "Use $finance-agent-orchestrator to route a full financial analysis workflow."

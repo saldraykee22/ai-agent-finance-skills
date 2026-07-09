@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crypto Onchain Flow Analyst"
+  short_description: "Wallet, exchange, stablecoin, bridge, and on-chain flows"
+  default_prompt: "Use $crypto-onchain-flow-analyst to analyze on-chain flows."

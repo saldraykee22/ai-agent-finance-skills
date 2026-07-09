@@ -1,0 +1,4 @@
+interface:
+  display_name: "Portfolio Dashboard Designer"
+  short_description: "Design finance dashboards"
+  default_prompt: "Use $portfolio-dashboard-designer to design my BIST and crypto spot portfolio dashboard."

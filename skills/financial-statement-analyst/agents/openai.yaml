@@ -1,0 +1,4 @@
+interface:
+  display_name: "Financial Statement Analyst"
+  short_description: "Deep accounting, quality, and statement analysis"
+  default_prompt: "Use $financial-statement-analyst to analyze financial statements and earnings quality."

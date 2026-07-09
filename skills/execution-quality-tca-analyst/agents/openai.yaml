@@ -1,0 +1,4 @@
+interface:
+  display_name: "Execution Quality TCA Analyst"
+  short_description: "Measure slippage and execution quality"
+  default_prompt: "Use $execution-quality-tca-analyst to review my filled trades for slippage, spread cost, and execution quality."

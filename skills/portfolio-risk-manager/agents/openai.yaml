@@ -1,0 +1,4 @@
+interface:
+  display_name: "Portfolio Risk Manager"
+  short_description: "Position sizing, exposure, drawdown, and risk controls"
+  default_prompt: "Use $portfolio-risk-manager to evaluate portfolio exposures, sizing, and risk."

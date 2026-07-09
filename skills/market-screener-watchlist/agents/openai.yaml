@@ -1,0 +1,4 @@
+interface:
+  display_name: "Market Screener Watchlist"
+  short_description: "Builds screeners and watchlists across markets"
+  default_prompt: "Use $market-screener-watchlist to build a cross-market watchlist."

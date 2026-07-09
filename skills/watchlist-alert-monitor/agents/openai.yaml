@@ -1,0 +1,4 @@
+interface:
+  display_name: "Watchlist Alert Monitor"
+  short_description: "Defines alerts, triggers, and monitoring cadence"
+  default_prompt: "Use $watchlist-alert-monitor to create alerts for a watchlist."

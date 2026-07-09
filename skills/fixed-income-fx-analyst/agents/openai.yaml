@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fixed Income FX Analyst"
+  short_description: "Rates, bonds, credit, yield curves, and currencies"
+  default_prompt: "Use $fixed-income-fx-analyst to analyze rates, credit, yield curves, and FX."

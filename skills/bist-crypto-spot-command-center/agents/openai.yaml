@@ -1,0 +1,4 @@
+interface:
+  display_name: "BIST Crypto Spot Command Center"
+  short_description: "Primary command center for BIST and crypto spot workflow"
+  default_prompt: "Use $bist-crypto-spot-command-center to run a BIST and crypto spot workflow."

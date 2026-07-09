@@ -1,0 +1,4 @@
+interface:
+  display_name: "Valuation Modeling Analyst"
+  short_description: "DCF, multiples, SOTP, and scenario valuation"
+  default_prompt: "Use $valuation-modeling-analyst to value a company with scenarios and sensitivities."

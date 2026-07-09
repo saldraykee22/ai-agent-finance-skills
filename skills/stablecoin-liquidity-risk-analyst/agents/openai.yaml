@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stablecoin Liquidity Risk Analyst"
+  short_description: "Stablecoin, peg, liquidity, collateral, and venue risk"
+  default_prompt: "Use $stablecoin-liquidity-risk-analyst to analyze stablecoin and crypto liquidity risk."

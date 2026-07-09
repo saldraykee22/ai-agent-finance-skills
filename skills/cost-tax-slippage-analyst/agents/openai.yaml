@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cost Tax Slippage Analyst"
+  short_description: "Costs, tax drag, spreads, FX, and slippage"
+  default_prompt: "Use $cost-tax-slippage-analyst to estimate net trade impact."

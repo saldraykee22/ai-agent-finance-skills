@@ -1,0 +1,4 @@
+interface:
+  display_name: "Liquidity Execution Analyst"
+  short_description: "Liquidity, order sizing, spreads, and execution quality"
+  default_prompt: "Use $liquidity-execution-analyst to plan spot trade execution."

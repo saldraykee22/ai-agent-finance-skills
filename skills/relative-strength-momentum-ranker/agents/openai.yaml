@@ -1,0 +1,4 @@
+interface:
+  display_name: "Relative Strength Momentum Ranker"
+  short_description: "Rank assets by relative strength"
+  default_prompt: "Use $relative-strength-momentum-ranker to rank my BIST and crypto watchlist by momentum and relative strength."

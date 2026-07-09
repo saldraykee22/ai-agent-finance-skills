@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Production Pipeline Manager"
+  short_description: "Run repeatable research production"
+  default_prompt: "Use $research-production-pipeline-manager to build a daily BIST and crypto research production workflow."

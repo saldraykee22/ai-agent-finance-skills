@@ -1,0 +1,4 @@
+interface:
+  display_name: "BIST KAP Disclosure Analyst"
+  short_description: "KAP disclosures, material events, and BIST filings"
+  default_prompt: "Use $bist-kap-disclosure-analyst to analyze a KAP disclosure."

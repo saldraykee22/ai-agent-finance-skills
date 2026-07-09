@@ -1,0 +1,4 @@
+interface:
+  display_name: "Position Lifecycle Manager"
+  short_description: "Idea, entry, add, trim, exit, and review workflow"
+  default_prompt: "Use $position-lifecycle-manager to manage a spot position lifecycle."

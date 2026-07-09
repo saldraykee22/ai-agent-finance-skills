@@ -1,0 +1,4 @@
+interface:
+  display_name: "API Source Integration Planner"
+  short_description: "Plan market API integrations"
+  default_prompt: "Use $api-source-integration-planner to map data APIs for BIST, crypto, US, and Germany analysis."

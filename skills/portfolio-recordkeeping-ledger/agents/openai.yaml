@@ -1,0 +1,4 @@
+interface:
+  display_name: "Portfolio Recordkeeping Ledger"
+  short_description: "Define portfolio ledger records"
+  default_prompt: "Use $portfolio-recordkeeping-ledger to structure my spot portfolio transaction and holdings ledger."

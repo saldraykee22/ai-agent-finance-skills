@@ -1,0 +1,4 @@
+interface:
+  display_name: "Geopolitical Policy Risk Analyst"
+  short_description: "Policy, sanctions, elections, and geopolitical market risk"
+  default_prompt: "Use $geopolitical-policy-risk-analyst to analyze geopolitical and policy risk."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crypto Narrative Rotation Analyst"
+  short_description: "Track crypto narrative rotation"
+  default_prompt: "Use $crypto-narrative-rotation-analyst to compare BTC, ETH, L1, AI, RWA, DePIN, and memecoin rotation."

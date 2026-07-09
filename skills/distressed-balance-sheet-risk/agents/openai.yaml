@@ -1,0 +1,4 @@
+interface:
+  display_name: "Distressed Balance Sheet Risk"
+  short_description: "Distress, refinancing, covenant, and solvency risk"
+  default_prompt: "Use $distressed-balance-sheet-risk to analyze balance sheet stress."

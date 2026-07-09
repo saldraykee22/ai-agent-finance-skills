@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sector Industry Analyst"
+  short_description: "Sector KPIs, peers, multiples, and risks"
+  default_prompt: "Use $sector-industry-analyst to compare companies within a sector."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Market Manipulation Anomaly Detector"
+  short_description: "Flag unusual market behavior"
+  default_prompt: "Use $market-manipulation-anomaly-detector to check whether a BIST stock or altcoin move looks abnormal."

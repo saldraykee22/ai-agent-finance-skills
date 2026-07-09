@@ -1,0 +1,4 @@
+interface:
+  display_name: "Quant Factor Analyst"
+  short_description: "Factors, correlations, drawdowns, and simple tests"
+  default_prompt: "Use $quant-factor-analyst to analyze factor exposure and performance."

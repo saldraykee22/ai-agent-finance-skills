@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scenario Stress Tester"
+  short_description: "Stress tests positions and portfolios across scenarios"
+  default_prompt: "Use $scenario-stress-tester to stress test a position or portfolio."

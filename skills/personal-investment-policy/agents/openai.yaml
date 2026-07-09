@@ -1,0 +1,4 @@
+interface:
+  display_name: "Personal Investment Policy"
+  short_description: "Personal spot trading policy and constraints"
+  default_prompt: "Use $personal-investment-policy to define a spot trading decision framework."
