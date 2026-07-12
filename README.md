@@ -141,13 +141,13 @@ These skills work with any AI agent that supports the Agent Skills standard (Ope
 # Clone the repository
 git clone https://github.com/saldraykee22/ai-agent-finance-skills.git
 
-# Copy skills to your agent's skills directory
-# For Codex user-level:
-cp -r skills/* ~/.agents/skills/
-
-# Or symlink:
-ln -s $(pwd)/skills/* ~/.agents/skills/
+# Install all skills into a platform's global directory
+python scripts/install_skills.py --platform codex
+python scripts/install_skills.py --platform hermes
+python scripts/install_skills.py --platform antigravity
 ```
+
+Use `--dry-run` before replacing an installation. See [Platform setup](docs/platform-setup.md) for workspace installs and MCP configuration.
 
 ### Invoking a Skill
 
