@@ -166,6 +166,16 @@ Or let the agent auto-detect the relevant skill.
 
 Use `$api-source-integration-planner` to discover tools by capability across Hermes Agent, Codex, and Antigravity. The skills separate public research, private account reads, and order-changing tools into distinct permission tiers. A trade analysis or execution-ready plan does not by itself authorize an order.
 
+## Professional Decision Standard
+
+Action-oriented research separates thesis attractiveness from execution readiness, applies hard data/liquidity/risk gates, and preserves a reproducible evidence ledger. BIST analysis identifies inflation-accounting and consolidation basis; crypto analysis distinguishes circulating value, FDV, liquid float, emissions, and token-holder value accrual. Position sizes must survive both the planned invalidation and a realistic adverse-gap scenario.
+
+Validate these cross-skill contracts with:
+
+```bash
+python scripts/validate_professional_contract.py
+```
+
 ## License
 
 MIT

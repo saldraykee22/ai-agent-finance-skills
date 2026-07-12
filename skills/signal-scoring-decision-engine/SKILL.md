@@ -13,10 +13,11 @@ Score evidence quality and decision readiness, not just bullish or bearish direc
 
 1. Define the decision: new entry, add, hold, trim, exit, watchlist, or avoid.
 2. Pull inputs from relevant specialist skills and separate facts from interpretation.
-3. Score each dimension from -2 to +2: fundamentals, valuation, trend, relative strength, catalysts, liquidity, macro regime, sector or narrative rotation, portfolio fit, execution, and data quality.
-4. Weight dimensions by asset type and time horizon. For spot trading, give liquidity, trend, invalidation, and position impact meaningful weight.
-5. Convert scores into `Ready`, `Watch`, `Wait for Trigger`, `Reduce`, or `Reject`.
-6. Require `pre-trade-checklist-controller` before any execution-ready conclusion.
+3. Produce two separate scores: `Thesis Attractiveness` and `Execution Readiness`.
+4. Score each defined dimension from -2 to +2 with cited evidence; use `N/A`, not zero, when evidence is missing.
+5. Select the BIST/equity or crypto spot weights from `references/analysis-workflow.md`, renormalize only genuinely inapplicable dimensions, and never renormalize missing evidence.
+6. Apply hard gates before mapping scores to `Ready`, `Watch`, `Wait for Trigger`, `Reduce`, or `Reject`.
+7. Require `pre-trade-checklist-controller` before any execution-ready conclusion.
 
 ## Use Together
 

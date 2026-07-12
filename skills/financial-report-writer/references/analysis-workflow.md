@@ -18,6 +18,10 @@
 5. Remove filler, generic warnings, and unsupported claims.
 6. Match the user's tone: terse trader note, deeper research memo, or executive brief.
 
+## Professional decision memo contract
+
+Include a data cutoff, instrument identity, horizon, action state, confidence label, and compact source ledger. Attribute decision-changing facts near the claim. State what is observed, calculated, estimated, and unavailable. For actionable spot work, report thesis score and readiness separately; never imply that readiness authorizes execution.
+
 ## Output format
 
 ```text

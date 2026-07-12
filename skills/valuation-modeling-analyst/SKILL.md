@@ -18,6 +18,7 @@ Read `references/analysis-workflow.md` for model selection, input checklist, WAC
 - Tie every major assumption to history, peers, guidance, or explicit scenario logic.
 - Do not add generic boilerplate caveats. Keep the output analytical, sourced, and direct.
 - Match the user's language.
+- Do not apply equity DCF mechanically to crypto tokens. First prove that cash flows or economic value accrue to token holders; otherwise use supply, adoption, protocol economics, comparable networks, and scenario analysis.
 
 ## Companion Skills
 

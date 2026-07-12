@@ -51,6 +51,15 @@
 - Downside: explicit margin, demand, balance sheet, or valuation compression path.
 - Include trigger and invalidation for each scenario.
 
+## Crypto/token valuation
+
+1. Verify chain, contract, circulating supply, liquid float, FDV, treasury, vesting, emissions, burns, and unlock schedule.
+2. Map protocol usage, fees, revenue, incentives, and treasury flows.
+3. Prove the token-holder value-accrual mechanism before using fee or cash-flow multiples.
+4. Compare networks only after normalizing business model, security budget, dilution, liquidity, and adoption stage.
+5. Use scenario ranges for adoption, take rate, token velocity, dilution, and terminal multiple; avoid false-precision target prices.
+6. Show both circulating-value and fully diluted outcomes and identify the supply date assumed.
+
 ## Watchpoints
 
 - Terminal value often dominates DCF; expose that sensitivity.

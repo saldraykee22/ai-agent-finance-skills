@@ -14,6 +14,8 @@ Use this skill as a final research quality gate. Read `references/analysis-workf
 - Audit facts, sources, calculations, assumptions, scenarios, and actionability separately.
 - Treat current-sensitive data as invalid unless timestamped or clearly marked stale.
 - For BIST and crypto spot decisions, require policy fit, liquidity, cost/slippage, invalidation, and portfolio impact.
+- Require a reproducible evidence ledger for action-oriented work: field, value, unit, as-of time, source, tool or document, adjustment basis, and status.
+- Separate thesis attractiveness from execution readiness. A compelling thesis cannot override a failed identity, freshness, liquidity, invalidation, or authorization gate.
 - Do not add generic boilerplate caveats. Keep output analytical, direct, and corrective.
 - Match the user's language.
 

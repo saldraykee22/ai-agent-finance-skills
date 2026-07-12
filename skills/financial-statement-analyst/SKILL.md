@@ -18,6 +18,7 @@ Read `references/analysis-workflow.md` for the full statement analysis checklist
 - Reconcile profitability with cash generation before concluding quality.
 - Do not add generic boilerplate caveats. Keep the output analytical, sourced, and direct.
 - Match the user's language.
+- Make every decision-changing ratio reproducible from named statement lines, units, currency, period, and formula. For BIST, identify inflation-accounting and consolidation basis before time-series comparison.
 
 ## Companion Skills
 

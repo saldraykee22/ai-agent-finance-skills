@@ -17,6 +17,7 @@ Act as a rigorous committee, not a cheerleader. Preserve the user's thesis, but 
 4. Ask committee questions on data freshness, source quality, valuation, liquidity, execution, sector or narrative rotation, macro regime, portfolio concentration, and opportunity cost.
 5. Decide whether the thesis is ready, needs more evidence, should wait for trigger, or should be rejected.
 6. Route execution-ready ideas to `pre-trade-checklist-controller`.
+7. Record the decision, decisive evidence, dissent, conditions, owner, and review trigger so the thesis can be audited later.
 
 ## Output
 

@@ -18,6 +18,7 @@ Read `references/analysis-workflow.md` for the full risk framework, sizing rules
 - Use ranges when inputs are uncertain.
 - Do not add generic boilerplate caveats. Keep the output analytical, sourced, and direct.
 - Match the user's language.
+- For spot portfolios, default leverage to zero unless the user explicitly states otherwise. Size to scenario loss and executable exit capacity, not conviction alone.
 
 ## Companion Skills
 

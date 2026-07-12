@@ -22,6 +22,8 @@
    - Define invalidation level and loss per unit.
    - Size = capital at risk / distance to invalidation.
    - Adjust for liquidity, volatility, event risk, correlation, and conviction.
+   - Calculate both planned-stop loss and adverse-gap scenario loss; size to the more conservative binding constraint.
+   - Estimate exit capacity from participation rate and observed volume/depth; cap size when exit time exceeds the decision horizon.
 5. Stress test:
    - Equity drawdown, rate shock, FX shock, commodity shock, credit spread widening, liquidity gap.
    - Asset-specific event such as earnings miss, token unlock, regulatory hit, devaluation.
@@ -36,6 +38,10 @@
 - Liquidity-based: cap position by exit capacity.
 - Correlation-aware: reduce size when multiple names share the same driver.
 - Event-aware: reduce or hedge before binary catalysts if gap risk dominates.
+
+## Required sizing disclosure
+
+Show portfolio value, risk budget, entry assumption, invalidation, adverse-gap price, per-unit losses, raw size, liquidity cap, concentration cap, final size, and portfolio weight. If any essential input is missing, provide a formula and conditional range rather than a fabricated size.
 
 ## Watchpoints
 

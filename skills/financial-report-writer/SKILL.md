@@ -19,6 +19,8 @@ Use this skill to package financial research into clear decision-ready writing. 
 - Use `model-assumption-validator` when a report depends on valuation, factor, scenario, or signal assumptions that drive the conclusion.
 - Use `finance-research-quality-auditor` before finalizing high-stakes or action-oriented research notes.
 - Keep source dates and assumptions visible.
+- State a data cutoff and evidence confidence. Preserve `Unavailable`, `Estimated`, `Derived`, and `Conflicting` labels instead of smoothing gaps into prose.
+- For recommendations, separate thesis attractiveness, execution readiness, and execution authorization.
 - Do not add generic boilerplate caveats. Keep the output analytical, sourced, and direct.
 - Match the user's language.
 

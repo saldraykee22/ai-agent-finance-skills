@@ -18,6 +18,7 @@ Read `references/analysis-workflow.md` for the full chart, flow, breadth, volati
 - Confirm signals across timeframe, volume, relative strength, and market context.
 - Do not add generic boilerplate caveats. Keep the output analytical, sourced, and direct.
 - Match the user's language.
+- Use only data available as of the stated cutoff. Align signal timeframe with decision horizon and require higher-timeframe context before declaring a spot setup ready.
 
 ## Companion Skills
 
