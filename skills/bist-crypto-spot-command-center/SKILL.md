@@ -1,27 +1,27 @@
 ---
 name: bist-crypto-spot-command-center
-description: Primary command center for a BIST and crypto priority, spot-only finance workflow. Use when the user asks for a complete BIST or crypto spot decision, daily workflow, watchlist review, portfolio posture, trade setup, risk check, market preparation, or any broad request that should coordinate specialist finance skills around BIST equities and crypto spot markets.
+description: Coordinate decision-ready BIST equity and crypto spot workflows with minimal specialist routing. Use for complete spot decisions, daily preparation, watchlist review, portfolio posture, trade setup, risk checks, position management, or recurring BIST and crypto workflows.
 ---
 
 # BIST Crypto Spot Command Center
 
-## Core Workflow
+## Workflow
 
-Use this skill as the main entrypoint for the user's finance workflow. Default profile: BIST and crypto first, spot only, professional research discipline, no generic boilerplate caveats. Read `references/analysis-workflow.md` for the full command routing, daily loop, decision gate, and output format.
+1. Identify the objective, asset or portfolio, horizon, lifecycle stage, and constraints.
+2. Select one command route from `references/analysis-workflow.md`.
+3. Establish market posture only when it affects the requested decision.
+4. Verify current-sensitive inputs and resolve material conflicts.
+5. Apply the spot decision gate; stop at `Wait` or `Reject` when a blocking condition exists.
+6. Add execution, monitoring, or review skills only if the request reaches those stages.
 
 ## Operating Rules
 
-- Start with the user's objective: daily prep, single asset decision, watchlist, portfolio posture, trade setup, or review.
-- Use specialist skills only when they improve the decision.
-- Always separate verified facts, calculations, interpretation, scenarios, uncertainties, and next checks.
-- For actionable spot ideas, require policy fit, liquidity, net cost/slippage, invalidation, portfolio impact, thesis risk, stress scenario, and monitoring trigger.
-- Match the user's language.
+- Prioritize BIST equities and crypto spot; do not introduce derivatives unless explicitly requested or needed as market context.
+- Start with one market skill and add specialists only for decision-changing questions.
+- Separate verified facts, calculations, interpretation, scenarios, uncertainties, and next checks.
+- For actionable ideas, require thesis, invalidation, portfolio fit, liquidity, net costs, catalyst risk, and monitoring logic.
+- Match the user's language and avoid generic boilerplate caveats.
 
-## Default Output Shape
+## Output Contract
 
-1. Objective
-2. Market posture
-3. Skill route
-4. Spot decision gate
-5. Action plan
-6. Monitoring and review
+Lead with the objective, bottom line, and `Proceed`, `Wait`, or `Reject` verdict. Then give the minimal skill route, evidence, decision gate, action plan, risks, and next checks.

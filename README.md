@@ -40,7 +40,7 @@ A collection of **77 finance-focused AI agent skills** designed for use with AI 
 | `execution-quality-tca-analyst` | Transaction cost analysis |
 | `liquidity-execution-analyst` | Liquidity and execution |
 | `market-manipulation-anomaly-detector` | Anomaly detection |
-| `option-derivatives-analyst` | Options and derivatives |
+| `options-derivatives-analyst` | Options and derivatives |
 
 ### 🛡️ Risk & Portfolio Management
 | Skill | Description |
@@ -95,7 +95,6 @@ A collection of **77 finance-focused AI agent skills** designed for use with AI 
 | `insider-ownership-flow-analyst` | Insider ownership and flows |
 | `short-crowding-flow-analyst` | Short interest and crowding |
 | `etf-fund-flow-analyst` | ETF and fund flow analysis |
-| `securities-lending-analyst` | Securities lending |
 | `market-screener-watchlist` | Market screening and watchlists |
 | `watchlist-alert-monitor` | Alert monitoring |
 | `daily-spot-market-briefing` | Daily market briefing |

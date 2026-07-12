@@ -1,34 +1,28 @@
 ---
 name: finance-agent-orchestrator
-description: Route complex finance requests across specialist finance skills and define an end-to-end research workflow. Use when the user asks for broad market analysis, a complete stock or crypto review, portfolio decision support, multi-asset research, watchlist construction, or any task that needs several finance skills such as market analysis, data verification, financial statements, valuation, technicals, derivatives, macro, sector, event, and portfolio risk.
+description: Route complex finance requests through the smallest sufficient set of specialist finance skills and synthesize one decision-ready result. Use for broad market analysis, complete stock or crypto reviews, portfolio decisions, multi-asset research, watchlists, recurring research systems, or any request spanning several finance domains.
 ---
 
 # Finance Agent Orchestrator
 
-## Core Workflow
+## Workflow
 
-Use this skill to choose the right finance skill sequence before doing broad analysis. Default to a BIST and crypto priority, spot-only workflow unless the user explicitly requests another instrument type. Use `bist-crypto-spot-command-center` as the primary entrypoint for broad BIST/crypto spot workflows. Read `references/analysis-workflow.md` for routing patterns, skill combinations, quality gates, and final synthesis format.
+1. Restate the decision, deliverable, horizon, instruments, and constraints.
+2. Classify the request and select one primary skill. For broad BIST or crypto spot work, select `bist-crypto-spot-command-center`.
+3. Add only specialists whose outputs can change the conclusion. Read `references/analysis-workflow.md` for route selection.
+4. Verify current-sensitive facts before interpreting them. Reconcile material conflicts instead of averaging them.
+5. Apply the relevant decision or quality gates.
+6. Synthesize one answer; do not concatenate specialist reports.
 
-## Operating Rules
+## Routing Rules
 
-- Start by classifying the request: single asset, portfolio, screen, event, macro, derivative, sector, or report.
-- For broad BIST/crypto spot requests, route first through `bist-crypto-spot-command-center`.
-- For spot trade/investment requests, route through `personal-investment-policy`, `position-lifecycle-manager`, `liquidity-execution-analyst`, `cost-tax-slippage-analyst`, and `decision-quality-behavioral-analyst` when the decision depends on action.
-- Always include `market-data-source-verifier` when current prices, filings, macro data, token data, news, or corporate actions matter.
-- Add signal skills only when they can change the decision: earnings/transcripts, ownership flow, ETF/fund flow, short/crowding, on-chain flow, custody/counterparty, distress, or geopolitical/policy risk.
-- Use `finance-research-quality-auditor`, `thesis-risk-register`, `scenario-stress-tester`, `watchlist-alert-monitor`, `spot-trading-playbook`, or `market-regime-dashboard` when the user needs decision readiness, monitoring, or a repeatable spot workflow.
-- Use `daily-spot-market-briefing` and `capital-allocation-cash-manager` for daily preparation and cash/deployment questions.
-- Combine specialist outputs into one coherent view; do not paste disconnected mini-reports.
-- Do not add generic boilerplate caveats. Keep the output analytical, sourced, and direct.
-- Match the user's language.
+- Use one primary route and normally no more than three conditional specialists at first pass.
+- Expand the route only for a stated evidence gap, conflict, risk, or requested deliverable.
+- Treat data verification as a gate, not a decorative step.
+- Do not invoke execution, monitoring, reporting, or audit skills unless the user needs that lifecycle stage.
+- Preserve the user's requested market and instrument scope. Default to BIST/crypto spot only when the request leaves scope unspecified.
+- Match the user's language and avoid generic boilerplate caveats.
 
-## Default Output Shape
+## Output Contract
 
-1. Requested decision or research objective
-2. Skill route used
-3. Verified facts
-4. Specialist findings
-5. Spot decision gate
-6. Scenario synthesis
-7. Monitoring and quality gates
-8. Next checks
+Present the objective and bottom line first, followed by verified facts, analysis, scenarios, uncertainties, and next checks. For an actionable decision, also state policy fit, invalidation, portfolio impact, liquidity/cost constraints, and a `Proceed`, `Wait`, or `Reject` verdict.
