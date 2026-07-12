@@ -24,3 +24,7 @@ Use this skill for equity corporate actions and crypto supply events. Read `refe
 3. Mechanical impact
 4. Economic/flow impact
 5. Data adjustment notes
+
+## Professional Gate
+
+For current-sensitive or action-oriented work, apply the `finance-research-quality-auditor` evidence contract: timestamp perishable inputs, label unavailable or conflicting fields, show decision-changing calculations, and separate analysis, execution readiness, and execution authorization.

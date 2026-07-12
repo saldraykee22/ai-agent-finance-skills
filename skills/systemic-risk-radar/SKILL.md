@@ -26,3 +26,7 @@ Use this skill as the high-level risk alarm panel. Read `references/analysis-wor
 4. Crypto impact
 5. Portfolio actions to consider
 6. Watch next
+
+## Professional Gate
+
+For current-sensitive or action-oriented work, apply the `finance-research-quality-auditor` evidence contract: timestamp perishable inputs, label unavailable or conflicting fields, show decision-changing calculations, and separate analysis, execution readiness, and execution authorization.

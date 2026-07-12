@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import re
 from pathlib import Path
 
 
@@ -129,12 +130,29 @@ def main() -> int:
                 f"scenario {scenario['name']!r}: got {scenario['result']}, expected {scenario['expected']}"
             )
 
+    skill_dirs = sorted(path for path in (ROOT / "skills").iterdir() if path.is_dir())
+    dimensions = (
+        re.compile(r"source|verify|evidence", re.IGNORECASE),
+        re.compile(r"fresh|timestamp|current", re.IGNORECASE),
+        re.compile(r"calculation|formula|ratio|score|size", re.IGNORECASE),
+        re.compile(r"uncertaint|missing|conflict|gap", re.IGNORECASE),
+        re.compile(r"decision|verdict|pass|reject|action", re.IGNORECASE),
+    )
+    for folder in skill_dirs:
+        text = (folder / "SKILL.md").read_text(encoding="utf-8")
+        linked = "finance-research-quality-auditor" in text
+        direct_coverage = sum(bool(pattern.search(text)) for pattern in dimensions)
+        if not linked and direct_coverage < 4:
+            failures.append(
+                f"{folder.name}: professional coverage is {direct_coverage}/5 and no auditor gate is linked"
+            )
+
     if failures:
         print("\n".join(failures))
         return 1
     print(
         f"Validated {len(REQUIREMENTS)} professional contracts, 3 weight tables, "
-        f"and {len(SCENARIOS)} BIST/crypto spot scenarios"
+        f"{len(SCENARIOS)} BIST/crypto spot scenarios, and {len(skill_dirs)} skill coverage gates"
     )
     return 0
 

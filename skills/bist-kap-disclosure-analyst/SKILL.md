@@ -24,3 +24,7 @@ Use this skill to read KAP disclosures like a BIST analyst. Read `references/ana
 3. Financial and share-count impact
 4. Thesis impact
 5. Follow-up checks
+
+## Professional Gate
+
+For current-sensitive or action-oriented work, apply the `finance-research-quality-auditor` evidence contract: timestamp perishable inputs, label unavailable or conflicting fields, show decision-changing calculations, and separate analysis, execution readiness, and execution authorization.

@@ -24,3 +24,7 @@ Use this skill to convert gross ideas into net outcomes. Read `references/analys
 3. Breakeven move
 4. Net return impact
 5. Data needed to refine
+
+## Professional Gate
+
+For current-sensitive or action-oriented work, apply the `finance-research-quality-auditor` evidence contract: timestamp perishable inputs, label unavailable or conflicting fields, show decision-changing calculations, and separate analysis, execution readiness, and execution authorization.

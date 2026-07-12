@@ -24,3 +24,7 @@ Use this skill to explain performance, not just calculate it. Read `references/a
 3. Attribution drivers
 4. Winners/laggards
 5. Lessons for allocation
+
+## Professional Gate
+
+For current-sensitive or action-oriented work, apply the `finance-research-quality-auditor` evidence contract: timestamp perishable inputs, label unavailable or conflicting fields, show decision-changing calculations, and separate analysis, execution readiness, and execution authorization.

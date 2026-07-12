@@ -24,3 +24,7 @@ Use this skill when balance sheet survival may dominate upside. Read `references
 3. Debt maturity and covenant risk
 4. Dilution/default scenarios
 5. Equity thesis implication
+
+## Professional Gate
+
+For current-sensitive or action-oriented work, apply the `finance-research-quality-auditor` evidence contract: timestamp perishable inputs, label unavailable or conflicting fields, show decision-changing calculations, and separate analysis, execution readiness, and execution authorization.

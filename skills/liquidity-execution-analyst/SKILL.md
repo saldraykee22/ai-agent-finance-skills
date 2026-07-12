@@ -25,3 +25,7 @@ Use this skill before spot entry/exit decisions. Read `references/analysis-workf
 3. Execution risks
 4. Suggested execution plan
 5. Post-trade review metrics
+
+## Professional Gate
+
+For current-sensitive or action-oriented work, apply the `finance-research-quality-auditor` evidence contract: timestamp perishable inputs, label unavailable or conflicting fields, show decision-changing calculations, and separate analysis, execution readiness, and execution authorization.

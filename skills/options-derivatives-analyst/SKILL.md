@@ -24,3 +24,7 @@ Use this skill for derivative structure and positioning analysis. Read `referenc
 3. Strategy or hedge map
 4. Greeks/risk
 5. Scenarios and failure modes
+
+## Professional Gate
+
+For current-sensitive or action-oriented work, apply the `finance-research-quality-auditor` evidence contract: timestamp perishable inputs, label unavailable or conflicting fields, show decision-changing calculations, and separate analysis, execution readiness, and execution authorization.

@@ -24,3 +24,7 @@ Use this skill for rules-based market analysis and factor diagnostics. Read `ref
 3. Data checks
 4. Results or diagnostic table
 5. Failure modes
+
+## Professional Gate
+
+For current-sensitive or action-oriented work, apply the `finance-research-quality-auditor` evidence contract: timestamp perishable inputs, label unavailable or conflicting fields, show decision-changing calculations, and separate analysis, execution readiness, and execution authorization.

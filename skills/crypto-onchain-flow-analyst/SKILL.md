@@ -24,3 +24,7 @@ Use this skill for crypto-native flow evidence. Read `references/analysis-workfl
 3. Holder and exchange behavior
 4. Protocol/activity context
 5. Spot trade implication
+
+## Professional Gate
+
+For current-sensitive or action-oriented work, apply the `finance-research-quality-auditor` evidence contract: timestamp perishable inputs, label unavailable or conflicting fields, show decision-changing calculations, and separate analysis, execution readiness, and execution authorization.

@@ -25,3 +25,7 @@ Return `Verified Facts`, `Sector Map`, `Leaders and Laggards`, `Rotation Evidenc
 ## Reference
 
 Read `references/analysis-workflow.md` for sector rotation scoring.
+
+## Professional Gate
+
+For current-sensitive or action-oriented work, apply the `finance-research-quality-auditor` evidence contract: timestamp perishable inputs, label unavailable or conflicting fields, show decision-changing calculations, and separate analysis, execution readiness, and execution authorization.

@@ -24,3 +24,7 @@ Use this skill to evaluate crypto supply risk before spot decisions. Read `refer
 3. Unlock/emission schedule
 4. Sell-pressure risk
 5. Spot thesis impact
+
+## Professional Gate
+
+For current-sensitive or action-oriented work, apply the `finance-research-quality-auditor` evidence contract: timestamp perishable inputs, label unavailable or conflicting fields, show decision-changing calculations, and separate analysis, execution readiness, and execution authorization.

@@ -26,3 +26,7 @@ Use this skill to assess risks that are not visible in price charts. Read `refer
 3. Operational constraints
 4. Mitigation options
 5. Monitoring triggers
+
+## Professional Gate
+
+For current-sensitive or action-oriented work, apply the `finance-research-quality-auditor` evidence contract: timestamp perishable inputs, label unavailable or conflicting fields, show decision-changing calculations, and separate analysis, execution readiness, and execution authorization.

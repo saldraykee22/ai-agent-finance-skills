@@ -24,3 +24,7 @@ Return `Verified Facts`, `Consensus Map`, `Revision Direction`, `Expectation Ris
 ## Reference
 
 Read `references/analysis-workflow.md` for revision analysis fields.
+
+## Professional Gate
+
+For current-sensitive or action-oriented work, apply the `finance-research-quality-auditor` evidence contract: timestamp perishable inputs, label unavailable or conflicting fields, show decision-changing calculations, and separate analysis, execution readiness, and execution authorization.

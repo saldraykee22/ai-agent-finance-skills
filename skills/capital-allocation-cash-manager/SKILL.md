@@ -26,3 +26,7 @@ Use this skill to decide how much capital should be exposed, reserved, or deploy
 4. Deployment rules
 5. Rebalance triggers
 6. Constraints
+
+## Professional Gate
+
+For current-sensitive or action-oriented work, apply the `finance-research-quality-auditor` evidence contract: timestamp perishable inputs, label unavailable or conflicting fields, show decision-changing calculations, and separate analysis, execution readiness, and execution authorization.

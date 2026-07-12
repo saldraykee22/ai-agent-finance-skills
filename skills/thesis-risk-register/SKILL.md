@@ -25,3 +25,7 @@ Use this skill to make a thesis monitorable. Read `references/analysis-workflow.
 4. Invalidation triggers
 5. Monitoring cadence
 6. Action map
+
+## Professional Gate
+
+For current-sensitive or action-oriented work, apply the `finance-research-quality-auditor` evidence contract: timestamp perishable inputs, label unavailable or conflicting fields, show decision-changing calculations, and separate analysis, execution readiness, and execution authorization.

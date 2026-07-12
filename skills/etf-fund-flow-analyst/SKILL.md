@@ -24,3 +24,7 @@ Use this skill to evaluate passive and fund-flow effects. Read `references/analy
 3. Underlying holdings impact
 4. Cost/fee context
 5. Thesis implication
+
+## Professional Gate
+
+For current-sensitive or action-oriented work, apply the `finance-research-quality-auditor` evidence contract: timestamp perishable inputs, label unavailable or conflicting fields, show decision-changing calculations, and separate analysis, execution readiness, and execution authorization.

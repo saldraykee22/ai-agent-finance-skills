@@ -24,3 +24,7 @@ Use this skill for crypto cash/liquidity risk. Read `references/analysis-workflo
 3. Flow signal
 4. Venue/bridge risk
 5. Portfolio action
+
+## Professional Gate
+
+For current-sensitive or action-oriented work, apply the `finance-research-quality-auditor` evidence contract: timestamp perishable inputs, label unavailable or conflicting fields, show decision-changing calculations, and separate analysis, execution readiness, and execution authorization.

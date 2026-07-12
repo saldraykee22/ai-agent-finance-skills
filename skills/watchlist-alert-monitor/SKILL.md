@@ -26,3 +26,7 @@ Use this skill to convert watchlists into actionable monitoring. Read `reference
 3. Alert table
 4. Review cadence
 5. Action map
+
+## Professional Gate
+
+For current-sensitive or action-oriented work, apply the `finance-research-quality-auditor` evidence contract: timestamp perishable inputs, label unavailable or conflicting fields, show decision-changing calculations, and separate analysis, execution readiness, and execution authorization.

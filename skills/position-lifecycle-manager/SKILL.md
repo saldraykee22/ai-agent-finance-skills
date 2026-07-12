@@ -29,3 +29,7 @@ Use this skill to turn research into a controlled position lifecycle. Read `refe
 4. Size and liquidity
 5. Monitor list
 6. Next action
+
+## Professional Gate
+
+For current-sensitive or action-oriented work, apply the `finance-research-quality-auditor` evidence contract: timestamp perishable inputs, label unavailable or conflicting fields, show decision-changing calculations, and separate analysis, execution readiness, and execution authorization.

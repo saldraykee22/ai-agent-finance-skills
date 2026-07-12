@@ -24,3 +24,7 @@ Use this skill to quantify or structure downside before action. Read `references
 3. Estimated impact
 4. Liquidity and execution constraints
 5. Action thresholds
+
+## Professional Gate
+
+For current-sensitive or action-oriented work, apply the `finance-research-quality-auditor` evidence contract: timestamp perishable inputs, label unavailable or conflicting fields, show decision-changing calculations, and separate analysis, execution readiness, and execution authorization.

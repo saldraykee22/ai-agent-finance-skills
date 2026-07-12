@@ -24,3 +24,7 @@ Use this skill before timing entries/exits where session structure matters. Read
 3. Order book and execution risk
 4. Microstructure constraints
 5. Execution timing suggestion
+
+## Professional Gate
+
+For current-sensitive or action-oriented work, apply the `finance-research-quality-auditor` evidence contract: timestamp perishable inputs, label unavailable or conflicting fields, show decision-changing calculations, and separate analysis, execution readiness, and execution authorization.

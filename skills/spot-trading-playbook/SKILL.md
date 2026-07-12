@@ -30,3 +30,7 @@ Use this skill as the spot trade action template. Read `references/analysis-work
 5. Monitoring plan
 6. Add/trim/exit rules
 7. Pre-trade gate verdict
+
+## Professional Gate
+
+For current-sensitive or action-oriented work, apply the `finance-research-quality-auditor` evidence contract: timestamp perishable inputs, label unavailable or conflicting fields, show decision-changing calculations, and separate analysis, execution readiness, and execution authorization.
