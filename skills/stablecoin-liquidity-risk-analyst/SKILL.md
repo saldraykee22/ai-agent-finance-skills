@@ -1,6 +1,6 @@
 ---
 name: stablecoin-liquidity-risk-analyst
-description: Analyze stablecoin peg risk, liquidity, collateral, issuer risk, exchange pair depth, stablecoin dominance, mint/burn flows, bridge exposure, depeg signals, and crypto market liquidity conditions. Use when the user asks whether stablecoin liquidity supports crypto spot trades, whether a stablecoin is risky, how stablecoin flows affect altcoins, or how to manage stablecoin/cash buckets.
+description: Analyze a stablecoin such as USDT or USDC for peg safety, collateral, issuer and redemption risk, exchange-pair depth, mint/burn flows, bridge exposure, depeg signals, and liquidity. Use when the user asks whether a stablecoin is safe or liquid enough, whether stablecoin liquidity supports crypto spot trades, how flows affect altcoins, or whether a crypto cash bucket carries stablecoin risk.
 ---
 
 # Stablecoin Liquidity Risk Analyst

@@ -1,6 +1,6 @@
 ---
 name: crypto-market-analyst
-description: Analyze crypto assets, spot and derivatives markets, tokenomics, on-chain data, DeFi protocols, exchange liquidity, funding, open interest, unlocks, catalysts, and market structure. Use when the user asks about Bitcoin, Ethereum, altcoins, crypto narratives, futures positioning, token research, exchange data, on-chain flows, or crypto trading/investment research.
+description: Analyze a specific crypto asset or pair across spot markets, derivatives context, tokenomics, on-chain data, DeFi, liquidity, catalysts, and market structure. Use for a complete single-asset BTC/Bitcoin, ETH/Ethereum, or altcoin spot review; exchange data; funding/open interest; protocol research; or an asset-level crypto trading/investment question. Use the BIST/crypto command center instead for broad daily or multi-workflow coordination.
 ---
 
 # Crypto Market Analyst

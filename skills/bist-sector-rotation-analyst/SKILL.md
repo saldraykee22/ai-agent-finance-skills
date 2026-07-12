@@ -1,6 +1,6 @@
 ---
 name: bist-sector-rotation-analyst
-description: Analyze BIST sector leadership, sector index relative strength, breadth, liquidity, macro sensitivity, KAP driven catalysts, valuation dispersion, and rotation among banks, holdings, industrials, aviation, defense, energy, retail, real estate, technology, and exporters. Use when the user asks what is leading BIST, which sectors are rotating, or how to build a BIST sector watchlist.
+description: Analyze BIST sector leadership, weekly or daily sector-index relative strength, breadth, liquidity, macro sensitivity, catalysts, valuation dispersion, and rotation among banks, holdings, industrials, aviation, defense, energy, retail, real estate, technology, and exporters. Use when the user asks which BIST sectors are gaining strength, leading or lagging, where money is rotating, or how sector leadership should change stock selection.
 ---
 
 # BIST Sector Rotation Analyst

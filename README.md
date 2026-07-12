@@ -174,7 +174,10 @@ Validate these cross-skill contracts with:
 
 ```bash
 python scripts/validate_professional_contract.py
+python scripts/evaluate_skill_routing.py
 ```
+
+The routing evaluation uses realistic boundary prompts across BIST, crypto, portfolio risk, execution, data quality, macro, and global markets. It requires at least 90% top-choice accuracy and 95% top-three coverage while rejecting highly overlapping descriptions.
 
 ## License
 

@@ -1,6 +1,6 @@
 ---
 name: execution-quality-tca-analyst
-description: Analyze execution quality and transaction cost impact for completed or planned spot trades using slippage, spread, arrival price, VWAP, TWAP, market impact, partial fills, session timing, exchange venue, FX conversion, commissions, and liquidity conditions. Use when reviewing filled trades, improving order execution, comparing broker or exchange quality, or measuring whether trade implementation harmed performance.
+description: Measure post-trade execution quality and transaction cost analysis for completed fills using realized slippage, effective spread, arrival price, VWAP, TWAP, market impact, partial fills, timing, venue, FX conversion, commissions, and benchmarks. Use after execution when the user asks whether a fill was good, how much was lost to costs, or how completed trades compared with VWAP/arrival price. Use the liquidity execution analyst for a planned order.
 ---
 
 # Execution Quality TCA Analyst

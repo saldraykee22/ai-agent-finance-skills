@@ -1,6 +1,6 @@
 ---
 name: bist-market-analyst
-description: Analyze Turkish BIST equities, BIST indices, company disclosures, financial statements, dividends, rights issues, liquidity, technical setups, and market microstructure. Use when the user asks about Borsa Istanbul stocks or indices, KAP disclosures, Turkish listed companies, BIST sector comparisons, TRY macro sensitivity, or a BIST-focused trading/investment research workflow.
+description: Analyze a specific Turkish BIST equity or index across company fundamentals, disclosures, valuation, liquidity, technical setup, and market context. Use for a complete Borsa Istanbul single-name idea such as THYAO or GARAN, a BIST stock/index review, TRY sensitivity, or asset-level BIST trading/investment research. Route disclosure-only requests to the KAP analyst and sector-leadership requests to the BIST rotation analyst.
 ---
 
 # BIST Market Analyst

@@ -1,6 +1,6 @@
 ---
 name: liquidity-execution-analyst
-description: Analyze liquidity and execution quality for spot trades, including order size, bid-ask spread, average daily volume, order book depth, market impact, partial fills, session timing, BIST liquidity, crypto exchange liquidity, and execution plan design. Use when the user asks how to enter or exit a spot position, whether a trade size is too large, how to reduce slippage, or how liquidity affects risk.
+description: Plan pre-trade liquidity and execution for a proposed spot order using intended size, bid-ask spread, volume, order-book depth, expected market impact, partial fills, session timing, venue, fees, and slippage. Use before a BIST, crypto, equity, ETF, FX, or commodity order when the user asks how to execute, whether the planned order is too large, which order type/session to use, or what slippage to expect. Use execution TCA after a fill is completed.
 ---
 
 # Liquidity Execution Analyst
