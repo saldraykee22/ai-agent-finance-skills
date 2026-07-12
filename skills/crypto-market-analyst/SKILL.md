@@ -18,6 +18,8 @@ Read `references/analysis-workflow.md` for the detailed crypto workflow, source 
 - Check chain, contract address, ticker collisions, wrapped assets, bridged supply, and exchange-specific symbols before analysis.
 - Do not add generic boilerplate caveats. Keep the output analytical, source-grounded, and direct.
 - Match the user's language. If the user writes in Turkish, produce Turkish output.
+- Prefer `binance-trader-mcp` for current Binance spot price, filters, depth, trades, and account/order state when available. Use `borsa-mcp` only as a secondary crypto cross-check, and route MCP selection through `api-source-integration-planner`.
+- Never treat analysis or a trade plan as authorization to call an order-placement or cancellation tool.
 
 ## Companion Skills
 

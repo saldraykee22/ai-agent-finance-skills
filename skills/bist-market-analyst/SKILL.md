@@ -18,6 +18,7 @@ Read `references/analysis-workflow.md` for the detailed BIST workflow, source hi
 - Cross-check ticker suffixes, share classes, corporate actions, and adjusted price history before comparing returns.
 - Do not add generic boilerplate caveats. Keep the output analytical, source-grounded, and direct.
 - Match the user's language. If the user writes in Turkish, produce Turkish output.
+- Prefer `borsa-mcp` for structured retrieval when available, but verify material KAP, issuer, Borsa Istanbul, TCMB/EVDS, or TUIK claims against the primary document. Route MCP selection through `api-source-integration-planner`.
 
 ## Companion Skills
 

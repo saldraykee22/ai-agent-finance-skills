@@ -19,6 +19,7 @@ Use this skill as the spot trade action template. Read `references/analysis-work
 - Prefer waiting for a defined trigger over chasing unconfirmed moves.
 - Do not add generic boilerplate caveats. Keep output analytical, direct, and actionable.
 - Match the user's language.
+- Keep recommendation, execution readiness, and execution authorization as three separate states. A completed trade card never authorizes an MCP order call.
 
 ## Default Output Shape
 

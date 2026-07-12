@@ -21,6 +21,8 @@ description: Coordinate decision-ready BIST equity and crypto spot workflows wit
 - Separate verified facts, calculations, interpretation, scenarios, uncertainties, and next checks.
 - For actionable ideas, require thesis, invalidation, portfolio fit, liquidity, net costs, catalyst risk, and monitoring logic.
 - Match the user's language and avoid generic boilerplate caveats.
+- Prefer `borsa-mcp` for BIST/Turkish macro research and `binance-trader-mcp` for Binance spot data when connected. Use `api-source-integration-planner` for portable tool discovery and permission-tier rules.
+- Never promote research into account access or order execution without the corresponding user request and gate.
 
 ## Output Contract
 

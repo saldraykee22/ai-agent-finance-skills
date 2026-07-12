@@ -25,7 +25,7 @@ Choose one primary route from the table. Add conditional skills only when the co
 - Add `data-quality-reconciliation-engine` only when material sources disagree.
 - Add `scenario-stress-tester` for nonlinear downside or portfolio-impact questions.
 - Add `signal-scoring-decision-engine` or `investment-committee-simulator` only when several credible signals conflict or readiness must be challenged.
-- Add `finance-research-quality-auditor` for publication, high-stakes decisions, or an explicit auditâ€”not every analysis.
+- Add `finance-research-quality-auditor` for publication, high-stakes decisions, or an explicit audit, not every analysis.
 
 ## Lifecycle gates
 

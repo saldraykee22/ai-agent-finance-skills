@@ -14,6 +14,7 @@ Use this skill as the data quality gate for finance work. Read `references/analy
 - Verify current-sensitive claims before analysis.
 - Prefer primary sources and timestamp every perishable market fact.
 - Flag stale, missing, conflicting, adjusted, or derived data.
+- When `borsa-mcp` or `binance-trader-mcp` is available, use `api-source-integration-planner` to apply its MCP capability map, provenance fields, source precedence, and failure rules.
 - Do not add generic boilerplate caveats. Keep the output analytical, sourced, and direct.
 - Match the user's language.
 

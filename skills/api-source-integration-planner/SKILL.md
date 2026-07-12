@@ -1,6 +1,6 @@
 ---
 name: api-source-integration-planner
-description: Plan finance API and data source integrations for prices, filings, fundamentals, macro releases, KAP disclosures, Borsa Istanbul data, SEC EDGAR, Deutsche Boerse or Xetra data, crypto exchange APIs, block explorers, DeFi dashboards, token unlock data, and portfolio tools. Use when choosing sources, designing connectors, comparing free and paid data, or preparing an API integration backlog.
+description: Plan and operate finance data-source integrations for prices, filings, fundamentals, macro releases, KAP, Borsa Istanbul, crypto exchanges, block explorers, DeFi data, and portfolio tools. Use when choosing sources, mapping MCP tools, designing connectors, comparing data providers, preparing an integration backlog, or using saidsurucu/borsa-mcp and saldraykee22/binance-trader-mcp across Hermes Agent, Codex, or Antigravity.
 ---
 
 # API Source Integration Planner
@@ -18,10 +18,14 @@ Prefer source reliability and identifier precision over convenience. Do not prop
 5. Define fallback sources and reconciliation rules through `data-quality-reconciliation-engine`.
 6. Produce an integration backlog with priority, source, fields, refresh cadence, and validation checks.
 
+## MCP Routing
+
+When `borsa-mcp` or `binance-trader-mcp` is available, read `references/mcp-tool-routing.md` before selecting tools. Discover tools by capability rather than assuming a client-specific qualified name. Keep research tools, private account reads, and trade mutations in separate permission tiers.
+
 ## Output
 
 Return `Data Needs`, `Source Options`, `Coverage and Limits`, `Integration Backlog`, `Validation Plan`, `Uncertainties`, and `Next Checks`.
 
 ## Reference
 
-Read `references/analysis-workflow.md` for source selection matrix.
+Read `references/analysis-workflow.md` for the source selection matrix and `references/mcp-tool-routing.md` when either preferred MCP is available.

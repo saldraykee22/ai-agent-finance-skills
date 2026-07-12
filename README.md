@@ -159,6 +159,13 @@ $us-equity-market-analyst Analyze NVDA with focus on data center revenue trends
 
 Or let the agent auto-detect the relevant skill.
 
+## Preferred MCP Data Sources
+
+- [`saidsurucu/borsa-mcp`](https://github.com/saidsurucu/borsa-mcp): preferred structured source for BIST, KAP, Turkish macro/EVDS, financial statements, indices, TEFAS, FX, commodities, and supporting US-market research.
+- [`saldraykee22/binance-trader-mcp`](https://github.com/saldraykee22/binance-trader-mcp): preferred source for Binance spot market data, exchange filters, order books, account/order review, and explicitly authorized spot execution.
+
+Use `$api-source-integration-planner` to discover tools by capability across Hermes Agent, Codex, and Antigravity. The skills separate public research, private account reads, and order-changing tools into distinct permission tiers. A trade analysis or execution-ready plan does not by itself authorize an order.
+
 ## License
 
 MIT

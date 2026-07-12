@@ -19,6 +19,13 @@ Block a trade plan when key facts are stale, the instrument is ambiguous, the in
 6. Define post-trade route: blotter, ledger, TCA, journal, and dashboard update.
 7. Return `Pass`, `Conditional Pass`, or `Do Not Execute Yet`.
 
+## Execution Authorization
+
+- A `Pass` means the plan is technically ready; it is not permission to trade.
+- Require an explicit current-conversation instruction naming the intended order or cancellation before any MCP mutation.
+- For Binance, re-check account, open orders, symbol filters, price/depth, quantity rounding, minimum notional, fees, and slippage immediately before the call.
+- After a timeout or ambiguous mutation response, query order state before retrying. Never blindly resubmit.
+
 ## Use Together
 
 Use with `spot-trading-playbook`, `position-lifecycle-manager`, `liquidity-execution-analyst`, `portfolio-risk-manager`, `economic-calendar-monitor`, `corporate-actions-analyst`, `market-manipulation-anomaly-detector`, `trade-blotter-operations-controller`, and `portfolio-recordkeeping-ledger`.

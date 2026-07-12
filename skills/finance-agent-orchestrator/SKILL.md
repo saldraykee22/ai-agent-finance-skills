@@ -22,6 +22,7 @@ description: Route complex finance requests through the smallest sufficient set 
 - Do not invoke execution, monitoring, reporting, or audit skills unless the user needs that lifecycle stage.
 - Preserve the user's requested market and instrument scope. Default to BIST/crypto spot only when the request leaves scope unspecified.
 - Match the user's language and avoid generic boilerplate caveats.
+- When preferred MCPs are connected, route their use through `api-source-integration-planner`; keep public research, private account reads, and external mutations in separate permission tiers.
 
 ## Output Contract
 
